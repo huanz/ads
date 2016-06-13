@@ -13,6 +13,6 @@ script:
 - cp surge.conf surge-hosts
 - cd surge-hosts
 - git add -u
-- git commit -m 'update ad block via travis at $(date -u +'%Y-%m-%d %H:%M:%S')'
+- git commit -m "update ad block via travis at $(date -u +'%Y-%m-%d %H:%M:%S')"
 - git branch -m source
 - git push -q $GH_TOKEN HEAD:source
