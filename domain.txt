@@ -15,11 +15,9 @@ csi.gstatic.com
 *.googleadservices.com
 *.googletagservices.com
 *.googleadsserving.cn
-  googeadsserving
 *.googlesyndication.com
 *.google-analytics.com
 fonts.googleapis.com
-
 
 init.icloud-analysis.com
 adlog.flurry.com

@@ -1,0 +1,27 @@
+{
+  "name": "ads",
+  "version": "1.0.0",
+  "description": "ad domain collection",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huanz/ads.git"
+  },
+  "keywords": [
+    "ads",
+    "adblock"
+  ],
+  "author": "bukas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/huanz/ads/issues"
+  },
+  "homepage": "https://github.com/huanz/ads#readme",
+  "dependencies": {
+    "line-by-line": "^0.1.4"
+  }
+}

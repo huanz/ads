@@ -1,0 +1,19 @@
+sudo: false
+language: node_js
+node_js:
+- 6.1
+branches:
+  only:
+  - master
+before_install:
+- git clone --depth 1 --branch source --single-branch $GH_TOKEN surge-hosts
+install:
+- npm i
+script:
+- npm start
+- cp surge.conf surge-hosts
+- cd surge-hosts
+- git add -u
+- git commit -m 'update ad block via travis at $(date -u +'%Y-%m-%d %H:%M:%S')'
+- git branch -m source
+- git push -q $GH_TOKEN HEAD:source
