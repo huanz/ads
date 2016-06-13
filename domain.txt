@@ -11,11 +11,15 @@
 
 # Google
 csi.gstatic.com
-static.googleadsserving.cn
 *.doubleclick.net
 *.googleadservices.com
 *.googletagservices.com
+*.googleadsserving.cn
+  googeadsserving
+*.googlesyndication.com
+*.google-analytics.com
 fonts.googleapis.com
+
 
 init.icloud-analysis.com
 adlog.flurry.com
@@ -40,7 +44,6 @@ log.tapatalk.com
 log.umsns.com
 pageviewp.icbc.com.cn
 pixel.wp.com
-sfsapi.micloud.xiaomi.net
 stat.api.dianping.com
 
 *.51.la
@@ -154,8 +157,15 @@ e.apsalar.com
 *.zhiziyun.com
 *.10up.com
 *.114la.com
-*.123.sogou.com
+*.cl3.webterren.com
+*.cl.webterren.com
 *.ad.cctv.com
+*.168.it168.com
+*.comic.hanhande.com
+*.analytics-union.xunlei.com
+*.union.xunlei.com
+*.cps.laifeng.com
+*.capp.simsimi.com
 
 # QQ
 *.l.qq.com
@@ -194,18 +204,16 @@ ra.gtimg.com
 swa.gtimg.com
 la.gtimg.com
 pgdt.gtimg.cn
-c.gdt.qq.com
-v.gdt.qq.com
-q.i.gdt.qq.com
+*.gdt.qq.com
 analy.qq.com
 appstore.qzone.qq.com
-mi.gdt.qq.com
 3gimg.qq.com
 sqimg.qq.com
 ac.o2.qq.com
 jqmt.qq.com
 jsqmt.qq.com
 mapp.qzone.qq.com
+*.boss.qzone.qq.com
 masdk.3g.qq.com
 mini2015.qq.com
 p.store.qq.com
@@ -216,6 +224,7 @@ stdl.qq.com
 ta.qq.com
 video.ureport.push.qq.com
 video.wap.mpush.qq.com
+aid.video.qq.com
 *.mazu.3g.qq.com
 *.pmir.3g.qq.com
 *.tools.3g.qq.com
@@ -232,6 +241,7 @@ uc.ucweb.com
 puds.ucweb.com
 ucsec.ucweb.com
 ucsec1.ucweb.com
+*.ccs.ucweb.com
 ucan.25pp.com
 ucdb.25pp.com
 android-artworks.25pp.com
@@ -239,6 +249,9 @@ log.cs.pp.cn
 patriot.cs.pp.cn
 
 # gameloft
+*.confirmation.gameloft.com
+*.ingameads.gameloft.com
+*.ssp-ces.gameloft.com
 imp-mdsp.avazutracking.net
 
 # 163
@@ -248,15 +261,21 @@ imp-mdsp.avazutracking.net
 *.g.163.com
 *.gb.corp.163.com
 *.temp.163.com
+*.analytics.163.com
 union.163.com
 rd.da.netease.com
 crashlytics.163.com
 count.mail.163.com
 r.mail.163.com
 g1.163.com
-dsp.youdao.com
+*.dsp.youdao.com
+*.dsp-impr2.youdao.com
 *.rlogs.youdao.com
 *.union.youdao.com
+*.c.youdao.com
+*.impservice2.youdao.com
+*.impservice.union.youdao.com
+*.shared.youdao.com
 *.ws.126.net
 android.push.126.net
 img1.126.net
@@ -277,6 +296,7 @@ f2.p0y.cn
 *.pagechoice.net
 *.prom.gome.com.cn
 *.static.flv.uuzuonline.com
+*.love.bobo.com
 
 # Baidu
 *.baidustatic.com
@@ -293,17 +313,21 @@ f2.p0y.cn
 *.hm.baidu.com
 *.hmma.baidu.com
 *.mobads.baidu.com
+*.mobads-logs.baidu.com
 *.nsclick.baidu.com
 *.rj.baidu.com
 *.ucstat.baidu.com
 *.wangmeng.baidu.com
 *.wm.baidu.com
+*.api.m.baidu.com
 *.zhanzhang.baidu.com
 *.znsv.baidu.com
+*.cbjslog.baidu.com
 *.zz.bdstatic.com
+*.eiv.baidu.com
+dj1.baidu.com
 eclick.baidu.com
 entry.baidu.com
-mobads-logs.baidu.com
 mtj.baidu.com
 spcode.baidu.com
 ucstat.baidu.com
@@ -311,7 +335,8 @@ union.baidu.com
 static.pay.baidu.com
 img.taotaosou.cn
 img01.taotaosou.cn
-imageplus.baidu.com
+*.imageplus.baidu.com
+*.cpro.baidu.com.cn
 res.limei.com
 res.cocounion.com
 IP-CIDR,60.210.17.12/24,no-resolve
@@ -320,6 +345,7 @@ IP-CIDR,60.210.17.12/24,no-resolve
 *.simaba.taobao.com
 *.show.re.taobao.com
 adash.m.taobao.com
+adsh.m.taobao.com
 c-adash.m.taobao.com
 h5.m.taobao.com
 apoll.m.taobao.com
@@ -422,10 +448,26 @@ client-dmp.suishenyun.cn
 log-dmp.suishenyun.cn
 
 # sina
+*.atm.sina.com
 *.u1.img.mobile.sina.cn
+*.cre.dp.sina.cn
+*.dmp.sina.cn
+sax.sina.cn
+adimg.mobile.sina.cn
+newspush.sinajs.cn
+sdkclick.mobile.sina.cn
+trends.mobile.sina.cn
+wbclick.mobile.sina.cn
+wbpctips.mobile.sina.cn
+ota.pay.mobile.sina.cn
+pay.mobile.sina.cn
 sdkapp.mobile.sina.cn
 wbapp.mobile.sina.cn
 *.beacon.sina.com.cn
+*.adm.leju.sina.com.cn
+*.ad.sina.com.cn
+*.dcads.sina.com.cn
+*.log.mix.sina.com.cn
 d0.sina.com.cn
 d1.sina.com.cn
 d2.sina.com.cn
@@ -437,15 +479,6 @@ d7.sina.com.cn
 d8.sina.com.cn
 d9.sina.com.cn
 sax.sina.com.cn
-sax.sina.cn
-adimg.mobile.sina.cn
-newspush.sinajs.cn
-sdkclick.mobile.sina.cn
-trends.mobile.sina.cn
-wbclick.mobile.sina.cn
-wbpctips.mobile.sina.cn
-ota.pay.mobile.sina.cn
-pay.mobile.sina.cn
 storage.wax.weibo.com
 biz.weibo.com
 c.biz.weibo.com
@@ -461,6 +494,8 @@ promote.biz.weibo.cn
 *.g.uusee.com
 *.traffic.uusee.com
 *.static.g.ppstream.com
+*.dd.wenwo.com
+*.k.sinaimg.cn
 
 # renren
 *.jebe.renren.com
@@ -518,6 +553,9 @@ video-va.g1d.net
 *.aty.tv.sohu.com
 *.atyt.tv.sohu.com
 *.pv.sohu.com
+*.goto.sms.sohu.com
+*.i.go.sohu.com
+*.s.go.sohu.com
 count.vrs.sohu.com
 dev.app.yule.sohu.com
 game.m.sohu.com
@@ -574,7 +612,7 @@ tudouflv.dnion.com
 
 # Baofeng
 *.logger.baofeng.com
-xs.houyi.baofeng.net
+*.xs.houyi.baofeng.net
 
 # ku6
 *.gug.ku6cdn.com
@@ -583,13 +621,15 @@ xs.houyi.baofeng.net
 *.static.ku6.com
 
 # Jd
+*.jzt.jd.com
+*.ccc.x.jd.com
 ads.union.jd.com
-ccc.x.jd.com
 u.x.jd.com
 wn.x.jd.com
 im-x.jd.com
 cm.jd.com
 union.m.jd.com
+stat.m.jd.com
 
 # Vip
 *.n-st.vip.com
@@ -649,7 +689,6 @@ pub.funshion.com
 
 # 10086
 go.10086.cn
-mobile.log.hunantv.com
 
 # Meitu
 corp.meitu.com
@@ -692,6 +731,8 @@ softstart.kugou.com
 tj.kugou.com
 
 # Fenghuang
+*.games.ifeng.com
+*.ifashion.ifeng.com
 api.newad.ifeng.com
 
 # Feng
@@ -707,6 +748,7 @@ dui88.com
 *.log.da.hunantv.com
 *.log.v2.hunantv.com
 *.v2.log.hunantv.com
+mobile.log.hunantv.com
 mp4.res.hunantv.com
 
 # 12306
@@ -745,6 +787,9 @@ bj.imp.voiceads.cn
 *.stat.360safe.com
 *.stat.m.360.cn
 *.update.360safe.com
+*.s.lianmeng.360.cn
+*.stat.lianmeng.360.cn
+*.so.lianmeng.360.cn
 
 # BBtan
 corn.yumimobi.com
@@ -762,3 +807,38 @@ stat.adx.yumimobi.com
 *.adm.myzaker.com
 *.api.myzaker.com
 *.ggs.myzaker.com
+
+# Tianya
+*.801.tianya.cn
+*.bdj.tianya.cn
+
+# Sougou
+*.123.sogou.com
+*.brand.sogou.com
+*.img.wan.sogou.com
+*.inte.sogou.com
+
+# Xiaomi
+sfsapi.micloud.xiaomi.net
+*.ad.xiaomi.com
+*.market.xiaomi.com
+
+# ChinaUnicom
+*.bjdnserror1.wo.com.cn
+*.bjdnserror2.wo.com.cn
+*.bjdnserror3.wo.com.cn
+*.bjdnserror4.wo.com.cn
+*.bjdnserror5.wo.com.cn
+*.bjdnserror6.wo.com.cn
+*.bjdnserror7.wo.com.cn
+*.bjdnserror8.wo.com.cn
+*.bjdnserror9.wo.com.cn
+
+# Opera
+*.c.bxb.oupeng.com
+
+# Hexun
+*.h04.hxsame.hexun.com
+*.hxsame.hexun.com
+*.itv.hexun.com
+*.so.hexun.com
