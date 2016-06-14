@@ -227,7 +227,6 @@ aid.video.qq.com
 *.pmir.3g.qq.com
 *.tools.3g.qq.com
 *.szexshort.weixin.qq.com
-IP-CIDR,183.60.15.198/16,no-resolve
 
 # UC
 adslot.uc.cn
@@ -337,7 +336,6 @@ img01.taotaosou.cn
 *.cpro.baidu.com.cn
 res.limei.com
 res.cocounion.com
-IP-CIDR,60.210.17.12/24,no-resolve
 
 # Alibaba
 *.simaba.taobao.com
@@ -656,7 +654,6 @@ mbdlog.iqiyi.com
 msg.iqiyi.com
 store.iqiyi.com
 paopao.iqiyi.com
-IP-CIDR,123.125.117.0/22,no-resolve
 
 # Toutiao
 ad.toutiao.com
