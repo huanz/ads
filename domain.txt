@@ -160,10 +160,27 @@ e.apsalar.com
 *.ad.cctv.com
 *.168.it168.com
 *.comic.hanhande.com
-*.analytics-union.xunlei.com
-*.union.xunlei.com
 *.cps.laifeng.com
 *.capp.simsimi.com
+
+# Facebook
+ads.ak.facebook.com
+creative.ak.facebook.com
+creative.ak.fbcdn.net
+fbcdn-creative-a.akamaihd.net
+
+# Twitter
+ads.twitter.com
+syndication.twitter.com
+cdn.syndication.twimg.com
+cdn.syndication.twitter.com
+syndication-o.twitter.com
+syndication-o.twimg.com	
+syndication.twimg.com	
+
+# Flipboard
+ad-beta.flipboard.com
+ad.flipboard.com
 
 # QQ
 *.l.qq.com
@@ -249,6 +266,8 @@ patriot.cs.pp.cn
 *.confirmation.gameloft.com
 *.ingameads.gameloft.com
 *.ssp-ces.gameloft.com
+gllive-beta.gameloft.com
+gllive.gameloft.com
 imp-mdsp.avazutracking.net
 
 # 163
@@ -265,20 +284,63 @@ crashlytics.163.com
 count.mail.163.com
 r.mail.163.com
 g1.163.com
+adc.163.com
+adclient.163.com
+adimg.163.com
+admail.163.com
+adpmt.mail.163.com
+allyes.nie.163.com
+corp.163.com
+cpc.163.com
+ntes-analytics.163.com
+popme.163.com
+pro.163.com
+proimg.163.com
+rec.g.163.com
+union.163.com
 *.dsp.youdao.com
+*.dsp-impr.youdao.com
 *.dsp-impr2.youdao.com
 *.rlogs.youdao.com
 *.union.youdao.com
 *.c.youdao.com
+*.impservice.youdao.com
 *.impservice2.youdao.com
 *.impservice.union.youdao.com
 *.shared.youdao.com
+impservice.chnl.youdao.com
+impservice.dictapp.youdao.com
+impservice.dictweb.youdao.com
+a.youdao.com
+b.clkservice.youdao.com
+clkservice.mail.youdao.com
+clkservice.union.youdao.com
+clkservice.youdao.com
+clkservice2.dict.youdao.com
+conv.youdao.com
+d.clkservice.youdao.com
+feedback.youdao.com
+i.clkservice.youdao.com
+nc045x.corp.youdao.com
+rlogs.youdao.com
+s.clkservice.youdao.com
+tb060x.corp.youdao.com
+tb104x.corp.youdao.com
+toolbar.youdao.com
+*.oimagea2.ydstatic.com
+adpublish.ydstatic.com
+oimagea3.ydstatic.com
+oimageb1.ydstatic.com
+oimageb2.ydstatic.com
+oimagec5.ydstatic.com
+oimageb8.ydstatic.com
 *.ws.126.net
 android.push.126.net
 img1.126.net
 img2.126.net
 mimg.126.net
 news.push.126.net
+m.analytics.126.net
 *.wanproxy.127.net
 *.wangroup.127.net
 haitaoad.nosdn.127.net
@@ -287,9 +349,10 @@ mr.da.netease.com
 pr.da.netease.com
 statis.push.netease.com
 wr.da.netease.com
+union.netease.com
+stat.nm.netease.com
 f1.p0y.cn
 f2.p0y.cn
-*.oimagea2.ydstatic.com
 *.pagechoice.net
 *.prom.gome.com.cn
 *.static.flv.uuzuonline.com
@@ -442,6 +505,8 @@ marketing.etouch.cn
 pclog.suishenyun.net
 client-dmp.suishenyun.cn
 log-dmp.suishenyun.cn
+cdn.youhui.cn
+emb.500.com
 
 # sina
 *.atm.sina.com
@@ -495,9 +560,35 @@ promote.biz.weibo.cn
 
 # renren
 *.jebe.renren.com
+ebp.renren.com
 
 # Audio
 *.limneos.net
+
+# iQiyi
+msg.71.am
+msga.71.am
+*.cupid.iqiyi.com
+*.cupid.qiyi.com
+*.afp.qiyi.com
+*.ckm.iqiyi.com
+*.ad.m.iqiyi.com
+*.ifacelog.iqiyi.com
+*.rcd.iqiyi.com
+msg.video.qiyi.com
+msg2.video.qiyi.com
+meta.video.qiyi.com
+data.video.qiyi.com
+c.uaa.iqiyi.com
+cloudpush.iqiyi.com
+cmts.iqiyi.com
+data.store.iqiyi.com
+feedback.iqiyi.com
+mbdapp.iqiyi.com
+mbdlog.iqiyi.com
+msg.iqiyi.com
+store.iqiyi.com
+paopao.iqiyi.com
 
 # Letv
 *.ark.letv.com
@@ -508,6 +599,17 @@ fz.letv.com
 pro.letv.com
 pro.hoye.letv.com
 stat.letv.com
+cdn.cxense.com
+cm.mlt01.com
+comcluster.cxense.com
+www.cxense.com
+
+# M1905
+afp.m1905.com
+counter.m1905.com
+vodlog.m1905.com
+trace.m1905.cn
+vodlog.m1905.cn
 
 # PPTV
 *.de.as.pptv.com
@@ -606,15 +708,77 @@ union.tudou.com
 wwwtest.tudou.com
 tudouflv.dnion.com
 
+# 56
+acs.56.com
+stat.v-56.com
+msg.ua.56.com
+acs.stat.v-56.com
+mad.stat.v-56.com
+so.stat.v-56.com
+stat2.corp.v-56.com
+stat2.stat.v-56.com
+stat3.corp.v-56.com
+stat3.stat.v-56.com
+stat4.stat.v-56.com
+t4u.stat.v-56.com
+
 # Baofeng
 *.logger.baofeng.com
 *.xs.houyi.baofeng.net
+clicklog.hd.baofeng.com
+clicklog.moviebox.baofeng.com
+dailylog.storm.baofeng.com
+errorcode.logger.baofeng.com
+eventlog.hd.baofeng.com
+gw.baofeng.com
+listlog.baofeng.net
+logger.treexml.baofeng.com
+market.shouji.baofeng.com
+midinfo.baofeng.com
+sclog.moviebox.baofeng.com
+vdinfo.baofeng.com
+videodown.baofeng.com
+boxlist.baofeng.net
+clicklog.moviebox.baofeng.net
+log.houyi.baofeng.net
+ploy.baofeng.net
+pvlog.moviebox.baofeng.net
+web.houyi.baofeng.net
+wl.houyi.baofeng.net
+
+# CNTV
+terren.cntv.cn
+a.cctv.com
+a.cntv.cn
+ad.cctv.com
+d.cntv.cn
+log.vdn.apps.cntv.cn
+adguanggao.eee114.com
+cctv.adsunion.com
+js.bmgad.com
+med.soodao.com
 
 # ku6
 *.gug.ku6cdn.com
 *.pq.stat.ku6.com
 *.st.vq.ku6.cn
 *.static.ku6.com
+
+# fengxing
+adk.funshion.com
+adm.funshion.com
+game.funshion.com
+jobsfe.funshion.com
+neirong.funshion.com
+partner.funshion.com
+pub.funshion.com
+shop.funshion.com
+vas.funshion.com
+stat.funshion.net
+vasd.fun.tv
+
+# Kaixunshipin
+stats.kascend.com
 
 # Jd
 *.jzt.jd.com
@@ -630,36 +794,12 @@ stat.m.jd.com
 # Vip
 *.n-st.vip.com
 
-# iQiyi
-msg.71.am
-msga.71.am
-*.cupid.iqiyi.com
-*.cupid.qiyi.com
-*.afp.qiyi.com
-*.ckm.iqiyi.com
-*.ad.m.iqiyi.com
-*.ifacelog.iqiyi.com
-*.rcd.iqiyi.com
-msg.video.qiyi.com
-msg2.video.qiyi.com
-meta.video.qiyi.com
-data.video.qiyi.com
-c.uaa.iqiyi.com
-cloudpush.iqiyi.com
-cmts.iqiyi.com
-data.store.iqiyi.com
-feedback.iqiyi.com
-mbdapp.iqiyi.com
-mbdlog.iqiyi.com
-msg.iqiyi.com
-store.iqiyi.com
-paopao.iqiyi.com
-
 # Toutiao
 ad.toutiao.com
 log.snssdk.com
 open.snssdk.com
 ic.snssdk.com
+s.toutiao.com
 
 # Autohome
 pcd.autohome.com.cn
@@ -729,6 +869,19 @@ tj.kugou.com
 *.games.ifeng.com
 *.ifashion.ifeng.com
 api.newad.ifeng.com
+bc.ifeng.com
+dol.deliver.ifeng.com
+dol.ifeng.com
+dolphin.deliver.ifeng.com
+g.ifeng.com
+iis1.deliver.ifeng.com
+map.tongji.ifeng.com
+mfp.deliver.ifeng.com
+online.3g.ifeng.com
+sta.ifeng.com
+sta.play.ifeng.com
+stadig.ifeng.com
+survey.news.ifeng.com
 
 # Feng
 yes1.feng.com
@@ -745,6 +898,46 @@ dui88.com
 *.v2.log.hunantv.com
 mobile.log.hunantv.com
 mp4.res.hunantv.com
+click.hunantv.com
+corp.hunantv.com
+flv.res.hunantv.com
+log.hunantv.com
+mobile.log.hunantv.com
+x.da.hunantv.com
+stat.titan.imgo.tv
+click.hifly.tv
+hunantv.m.cn.miaozhen.com
+recv-vd.gridsumdissector.cn
+recv-vd.gridsumdissector.com
+geo.gridsumdissector.com
+
+# YY
+ad.yy.duowan.com
+forceupdate.yy.duowan.com
+gamecollaborate.yy.duowan.com
+hkmoblbssdk.yy.duowan.com
+market.duowan.com
+moblbssdk.yy.duowan.com
+mstat.duowan.com
+wtmoblbssdk.yy.duowan.com
+pflq.duowan.com
+ka.duowan.com
+gm_download3.yy.com
+policyres.game.yy.com
+stat2.web.yy.com
+yymobilegame.game.yy.com
+dw.hiido.cn
+im.yy.hiido.cn
+njs.dw.hiido.cn
+mb.hiido.com
+mlog.hiido.com
+config.hiido.com
+tlog.hiido.com
+trans.hiido.com
+ylog.hiido.com
+
+# Zhangyue
+push.zhangyue.com
 
 # 12306
 ad.12306.cn
@@ -774,17 +967,34 @@ bj.imp.voiceads.cn
 *.3600.com
 *.dev.tg.wan.360.cn
 *.f.360.cn
-*.kuaikan.netmon.360safe.com
 *.leak.360.cn
 *.openbox.mobilem.360.cn
 *.pub.se.360.cn
 *.soft.data.weather.360.cn
 *.stat.360safe.com
 *.stat.m.360.cn
-*.update.360safe.com
 *.s.lianmeng.360.cn
 *.stat.lianmeng.360.cn
 *.so.lianmeng.360.cn
+*.update.360safe.com
+*.kuaikan.netmon.360safe.com
+dl.360safe.com
+inst.360safe.com
+ad.dev.360.cn
+ad.gamebox.360.cn
+down.360.cn
+guess.tf.360.cn
+stats.guess.tf.360.cn
+tf.360.cn
+v.tf.360.cn
+s.360.cn
+s.mall.360.cn
+fd.shouji.360.cn
+feedback.m.360.cn
+msg.shouji.360.cn
+guess.h.qhimg.com
+haostat.qihoo.com
+hot.m.shouji.360tpcdn.com
 
 # BBtan
 corn.yumimobi.com
@@ -805,7 +1015,19 @@ stat.adx.yumimobi.com
 
 # Tianya
 *.801.tianya.cn
+*.803.tianya.cn
+*.806.tianya.cn
+*.807.tianya.cn
+*.808.tianya.cn
 *.bdj.tianya.cn
+dol.tianya.cn
+advertisement.tianya.cn
+adview.tianya.cn
+squidclick.bbs.tianya.cn
+stat.tianya.cn
+urchin.tianya.cn
+801.tianyaui.com
+click.tianyaui.com
 
 # Sougou
 *.123.sogou.com
@@ -837,3 +1059,134 @@ sfsapi.micloud.xiaomi.net
 *.hxsame.hexun.com
 *.itv.hexun.com
 *.so.hexun.com
+
+# MobPay
+epay.keepc.com
+api.mopay.com
+mobile.yeepay.com
+payload.moji002.com
+mobilepay.unionpaysecure.com
+payment.umpay.com
+sdk.baopay.com
+ipay.appchina.com
+
+# 91
+agency.91.com
+appupdate.sj.91.com
+bbxdata.sj.91.com
+d.91.com
+djoy-dev.91.com
+djoy.91test.com
+dl.sj.91.com
+g2.v3.91.com
+image.agency.91.com
+mjoy.91.com
+mpush-phone.91.com
+urlservice.sj.91.com
+mobiledata-dev.91.com
+v2.g2.91.com
+mobiledata-dev2.91.com
+adpush.91smart.net
+
+# Adcome
+api.adcome.cn
+music.adcome.cn
+res.adcome.cn
+
+# Camera360
+ad.camera360.us
+applog.camera360.com
+feedback.camera360.com
+pushmsg.camera360.com
+update.camera360.com
+
+# maopu
+pub.mop.com
+gou.mop.com
+dc.mop.com
+imgpub.mop.com
+trackx.mop.com
+
+# Ctrip
+crm.ws.ctrip.com
+s.c-ctrip.com
+
+# Dolphin
+a.dolphin-browser.com
+activation.dolphin-browser.com
+download.dolphin-browser.cn
+survey.dolphin.com
+
+# Ganji
+analytics.ganji.com
+ganjituiguang.ganji.com
+sta.ganji.com
+tralog.ganji.com
+
+# GeekSoft
+msg.xageek.com
+stat.xageek.com
+
+# Wifi
+appstore.51y5.net
+static.activity.51y5.net
+api.o2o.lianwifi.com
+dl01.lianwifi.com
+gamecenter.lianwifi.com
+gmdh.lianwifi.com
+gmpt.lianwifi.com
+gmtj.lianwifi.com
+static.game.lianwifi.com
+static.o2o.lianwifi.com
+
+# Uxin
+game.uxin.com
+
+# Zdworks
+cal.report2.zdworks.com
+cal.stat.zdworks.com
+cal.stat2.zdworks.com
+cali.stat.zdworks.com
+cali.stat2.zdworks.com
+clock.report2.zdworks.com
+clock.stat.zdworks.com
+clock.stat2.zdworks.com
+clock.update.zdworks.com
+clockupdate.zdworks.com
+cuckoo.zdworks.com
+static.cuckoo.zdworks.com
+zpns.zdworks.com
+zrs.stat.zdworks.com
+zrs.zdworks.com
+
+# XunLei
+*.analytics-union.xunlei.com
+*.union.xunlei.com
+advstat.xunlei.com
+client.stat.xunlei.com
+cop.my.xunlei.com
+hezuo.down.xunlei.com
+jsunion.kankan.xunlei.com
+kkpgv.xunlei.com
+kkpgv2.xunlei.com
+leiyanstatic.xunlei.com
+mediapv.xunlei.com
+p4pstatic.xunlei.com
+jump.niu.xunlei.com
+pgv.m.xunlei.com
+pgv2.m.xunlei.com
+pv.kankan.stat.xunlei.com
+recommend.xunlei.com
+record.kuai.xunlei.com
+stat.download.xunlei.com
+stat.xunlei.com
+static.soft.xunlei.com
+statis.kankan.xunlei.com
+statxml.gamedata.xunlei.com
+tj.xunlei.com
+tracker.movie.xunlei.com
+web.stat.xunlei.com
+websts.xunlei.com
+wp.stat.xunlei.com
+wy.xunlei.com
+xmlconf.client.xunlei.com
