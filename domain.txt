@@ -162,6 +162,9 @@ e.apsalar.com
 *.comic.hanhande.com
 *.cps.laifeng.com
 *.capp.simsimi.com
+*.mgid.com
+*.ad-stir.com
+*.gssprt.jp
 
 # Facebook
 ads.ak.facebook.com
@@ -513,7 +516,7 @@ emb.500.com
 *.u1.img.mobile.sina.cn
 *.cre.dp.sina.cn
 *.dmp.sina.cn
-sax.sina.cn
+*.sax.sina.cn
 adimg.mobile.sina.cn
 newspush.sinajs.cn
 sdkclick.mobile.sina.cn
