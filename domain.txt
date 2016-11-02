@@ -8,10 +8,15 @@
 *usage*
 *51y5*
 *openx*
+*admaster*
+*adsage*
+*adsmogo*
+*doubleclick*
+*duomeng*
+*omgmta*
 
 # Google
 csi.gstatic.com
-*.doubleclick.net
 *.googleadservices.com
 *.googletagservices.com
 *.googleadsserving.cn
@@ -68,14 +73,10 @@ e.apsalar.com
 *.adchina.com
 *.adcome.cn
 *.adinfuse.com
-*.admaster.com.cn
 *.admob.com
 *.adnxs.com
 *.ads.yahoo.com
-*.adsage.cn
-*.adsage.com
 *.adsame.com
-*.adsmogo.org
 *.aduu.cn
 *.advertising.com
 *.adview.cn
@@ -99,9 +100,6 @@ e.apsalar.com
 *.domob.cn
 *.domob.com.cn
 *.domob.org
-*.duomeng.cn
-*.duomeng.net
-*.duomeng.org
 *.guohead.com
 *.guomob.com
 *.happyelements.cn
@@ -165,6 +163,18 @@ e.apsalar.com
 *.mgid.com
 *.ad-stir.com
 *.gssprt.jp
+*.union.6.cn
+*.t.cr-nielsen.com
+*.simba.6.cn
+*.shrek.6.cn
+*.rtb.behe.com
+*.match.rtbidder.net
+*.logstat.t.sfht.com
+*.kwflvcdn.000dn.com
+*.gg.jtertp.com
+*.d.dsp.imageter.com
+*.cc.xtgreat.com
+*.c.algovid.com
 
 # Facebook
 ads.ak.facebook.com
@@ -188,10 +198,11 @@ ad.flipboard.com
 # QQ
 *.l.qq.com
 *.beacon.qq.com
+*.btrace.qq.com
+*.bugly.qq.com
 *.pingtcss.qq.com
 *.report.qq.com
 monitor.uu.qq.com
-omgmta.qq.com
 pingjs.qq.com
 pingma.qq.com
 tajs.qq.com
@@ -203,7 +214,7 @@ mqqad.html5.qq.com
 tpush.html5.qq.com
 adsview.qq.com
 adsclick.qq.com
-adsfile.qq.com
+*.adsfile.qq.com
 adsgroup.qq.com
 adshmct.qq.com
 adshmmsg.qq.com
@@ -237,12 +248,13 @@ mini2015.qq.com
 p.store.qq.com
 s.isdspeed.qq.com
 s.pcapps.qq.com
-sdk.e.qq.com
+*.e.qq.com
 stdl.qq.com
 ta.qq.com
 video.ureport.push.qq.com
 video.wap.mpush.qq.com
 aid.video.qq.com
+*.btrace.video.qq.com
 *.mazu.3g.qq.com
 *.pmir.3g.qq.com
 *.tools.3g.qq.com
@@ -363,6 +375,9 @@ f2.p0y.cn
 
 # Baidu
 *.baidustatic.com
+*.baidutv.baidu.com
+*.bar.baidu.com
+*.boscdn.bpc.baidu.com
 *.pos.baidu.com
 *.baichuan.baidu.com
 *.tuisong.baidu.com
@@ -374,7 +389,11 @@ f2.p0y.cn
 *.cpro.tieba.baidu.com
 *.cpro.zhidao.baidu.com
 *.hm.baidu.com
+*.hc.baidu.com
+*.c.baidu.com
+*.cjhq.baidu.com
 *.hmma.baidu.com
+*.ma.baidu.com
 *.mobads.baidu.com
 *.mobads-logs.baidu.com
 *.nsclick.baidu.com
@@ -388,6 +407,9 @@ f2.p0y.cn
 *.cbjslog.baidu.com
 *.zz.bdstatic.com
 *.eiv.baidu.com
+*.a.baidu.com
+*.drmcmm.baidu.com
+*.e.baidu.com
 dj1.baidu.com
 eclick.baidu.com
 entry.baidu.com
@@ -402,9 +424,15 @@ img01.taotaosou.cn
 *.cpro.baidu.com.cn
 res.limei.com
 res.cocounion.com
+*.itsdata.map.baidu.com
+*.static.map.bdimg.com
+*.log.nuomi.com
+*.dcps.nuomi.com
+*.log.waimai.baidu.com
 
 # Alibaba
 *.simaba.taobao.com
+*.tns.simba.taobao.com
 *.show.re.taobao.com
 adash.m.taobao.com
 adsh.m.taobao.com
@@ -422,6 +450,7 @@ hydra.alibaba.com
 acjs.aliyun.com
 *.atanx.alicdn.com
 gma.alicdn.com
+*.afp.alicdn.com
 
 # Dropbox
 d.dropbox.com
@@ -517,6 +546,7 @@ emb.500.com
 *.cre.dp.sina.cn
 *.dmp.sina.cn
 *.sax.sina.cn
+*.tjs.sjs.sinajs.cn
 adimg.mobile.sina.cn
 newspush.sinajs.cn
 sdkclick.mobile.sina.cn
@@ -557,9 +587,12 @@ m.game.weibo.cn
 promote.biz.weibo.cn
 *.g.uusee.com
 *.traffic.uusee.com
+*.pop.uusee.com
 *.static.g.ppstream.com
 *.dd.wenwo.com
 *.k.sinaimg.cn
+*.static.duoshuo.com
+*.static.bshare.cn
 
 # renren
 *.jebe.renren.com
@@ -686,6 +719,7 @@ api.gamex.mobile.youku.com
 dl.m.youku.com
 p-log.ykimg.com
 r1.ykimg.com
+*.p.l.ykimg.com
 passport-log.youku.com
 push.m.youku.com
 rec.api.gamex.mobile.youku.com
@@ -698,6 +732,7 @@ vhtml.youku.com
 *.nstat.tudou.com
 *.stat.tudou.com
 *.stats.tudou.com
+*.goods.tudou.com
 adextensioncontrol.tudou.com
 erreport.tudou.com
 istat.tudou.com
@@ -731,7 +766,6 @@ t4u.stat.v-56.com
 clicklog.hd.baofeng.com
 clicklog.moviebox.baofeng.com
 dailylog.storm.baofeng.com
-errorcode.logger.baofeng.com
 eventlog.hd.baofeng.com
 gw.baofeng.com
 listlog.baofeng.net
@@ -878,7 +912,6 @@ dol.ifeng.com
 dolphin.deliver.ifeng.com
 g.ifeng.com
 iis1.deliver.ifeng.com
-map.tongji.ifeng.com
 mfp.deliver.ifeng.com
 online.3g.ifeng.com
 sta.ifeng.com
@@ -906,7 +939,6 @@ corp.hunantv.com
 flv.res.hunantv.com
 log.hunantv.com
 mobile.log.hunantv.com
-x.da.hunantv.com
 stat.titan.imgo.tv
 click.hifly.tv
 hunantv.m.cn.miaozhen.com
