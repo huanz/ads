@@ -437,7 +437,6 @@ res.cocounion.com
 adash.m.taobao.com
 adsh.m.taobao.com
 c-adash.m.taobao.com
-h5.m.taobao.com
 apoll.m.taobao.com
 *.strip.taobaocdn.com
 *.pics.taobaocdn.com
