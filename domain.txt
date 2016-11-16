@@ -255,7 +255,6 @@ video.ureport.push.qq.com
 video.wap.mpush.qq.com
 aid.video.qq.com
 *.btrace.video.qq.com
-*.mazu.3g.qq.com
 *.pmir.3g.qq.com
 *.tools.3g.qq.com
 *.szexshort.weixin.qq.com
