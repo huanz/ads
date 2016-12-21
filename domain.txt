@@ -716,7 +716,6 @@ data.vod.itc.cn
 api.gamex.mobile.youku.com
 dl.m.youku.com
 p-log.ykimg.com
-r1.ykimg.com
 *.p.l.ykimg.com
 passport-log.youku.com
 push.m.youku.com
