@@ -181,15 +181,20 @@ ads.ak.facebook.com
 creative.ak.facebook.com
 creative.ak.fbcdn.net
 fbcdn-creative-a.akamaihd.net
+*.staticxx.facebook.com
 
 # Twitter
-ads.twitter.com
-syndication.twitter.com
 cdn.syndication.twimg.com
-cdn.syndication.twitter.com
-syndication-o.twitter.com
 syndication-o.twimg.com	
-syndication.twimg.com	
+syndication.twimg.com
+*.ads.twitter.com
+*.ads-twitter.com
+*.analytics.twitter.com
+*.p.twitter.com
+*.scribe.twitter.com
+*.syndication.twitter.com
+*.syndication-o.twitter.com
+*.urls.api.twitter.com	
 
 # Flipboard
 ad-beta.flipboard.com
@@ -260,21 +265,31 @@ aid.video.qq.com
 *.szexshort.weixin.qq.com
 
 # UC
-adslot.uc.cn
-applog.uc.cn
-dispatcher.upmc.uc.cn
-track.uc.cn
 safe.ucweb.com
-uc.ucweb.com
-puds.ucweb.com
-ucsec.ucweb.com
-ucsec1.ucweb.com
-*.ccs.ucweb.com
 ucan.25pp.com
 ucdb.25pp.com
 android-artworks.25pp.com
-log.cs.pp.cn
-patriot.cs.pp.cn
+*.ccs.ucweb.com
+*.api.mp.uc.cn
+*.applog.uc.cn
+*.client.video.ucweb.com
+*.cms.ucweb.com
+*.dispatcher.upmc.uc.cn
+*.huichuan.sm.cn
+*.iflow.uczzd.com
+*.iflow.uczzd.com.cn
+*.iflow.uczzd.net
+*.log.cs.pp.cn
+*.m.uczzd.cn
+*.patriot.cs.pp.cn
+*.puds.ucweb.com
+*.server.m.pp.cn
+*.track.uc.cn
+*.u.uc123.com
+*.u.ucfly.com
+*.uc.ucweb.com
+*.ucsec.ucweb.com
+*.ucsec1.ucweb.com
 
 # gameloft
 *.confirmation.gameloft.com
@@ -322,8 +337,9 @@ union.163.com
 *.impservice2.youdao.com
 *.impservice.union.youdao.com
 *.shared.youdao.com
-impservice.chnl.youdao.com
+*.impservice.chnl.youdao.com
 impservice.dictapp.youdao.com
+*.impservice-test.dictapp.youdao.com
 impservice.dictweb.youdao.com
 a.youdao.com
 b.clkservice.youdao.com
@@ -331,6 +347,12 @@ clkservice.mail.youdao.com
 clkservice.union.youdao.com
 clkservice.youdao.com
 clkservice2.dict.youdao.com
+*.impservice.dict.youdao.com
+*.impservice.dictapp.youdao.com
+*.impservice.dictvista.youdao.com
+*.impservice.dictweb.youdao.com
+*.impservice.dictword.youdao.com
+*.impservice.mail.youdao.com
 conv.youdao.com
 d.clkservice.youdao.com
 feedback.youdao.com
@@ -829,7 +851,13 @@ stat.m.jd.com
 *.n-st.vip.com
 
 # Toutiao
-ad.toutiao.com
+*.ad.toutiao.com
+*.d.toutiao.com
+*.dm.toutiao.com
+*.dsp.toutiao.com
+*.nativeapp.toutiao.com
+*.partner.toutiao.com
+*.s3.bytecdn.cn
 log.snssdk.com
 open.snssdk.com
 ic.snssdk.com
@@ -853,6 +881,9 @@ dw.xcar.com.cn
 # Didi
 static.diditaxi.com.cn
 
+# Douyu
+*.dotcounter.douyutv.com
+
 # Fengxing
 pub.funshion.com
 
@@ -860,18 +891,25 @@ pub.funshion.com
 go.10086.cn
 
 # Meitu
-corp.meitu.com
-gg.meitu.com
-message.meitu.com
-tuiguang.meitu.com
-xiuxiu.android.dl.meitu.com
-xiuxiu.mobile.meitudata.com
-a.koudai.com
+*.a.koudai.com
+*.corp.meitu.com
+*.gg.meitu.com
+*.meitubeauty.meitudata.com
+*.message.meitu.com
+*.tuiguang.meitu.com
+*.xiuxiu.android.dl.meitu.com
+*.xiuxiu.mobile.meitudata.com
 
 # Ximalaya
 *.adse.ximalaya.com
-ad.ximalaya.com
-ad.test.ximalaya.com
+*.ad.test.ximalaya.com
+*.ad.ximalaya.com
+*.adse.test.ximalaya.com
+*.adweb.test.ximalaya.com
+*.adweb.ximalaya.com
+*.linkeye.ximalaya.com
+*.location.ximalaya.com
+*.xdcs-collector.ximalaya.com
 
 # Kuwo
 g.kuwo.cn
@@ -883,21 +921,35 @@ g.koowo.com
 wa.koowo.com
 
 # Kugou
-minidcsc.kugou.com
-cpm.sdn.kugou.com
 downmini.kugou.com
 downmobile.kugou.com
-gad.kugou.com
-gg.kugou.com
-install.kugou.com
-log.stat.kugou.com
 logstat.kugou.com
-mvads.kugou.com
 opt.kugou.com
-p.kugou.com
-sdn.kugou.com
 softstart.kugou.com
 tj.kugou.com
+*.ads.service.kugou.com
+*.d.kugou.com
+*.downmobile.kugou.com
+*.fanxing.kugou.com
+*.gad.kugou.com
+*.game.kugou.com
+*.gcapi.sy.kugou.com
+*.gg.kugou.com
+*.install.kugou.com
+*.install2.kugou.com
+*.kgmobilestat.kugou.com
+*.kuaikaiapp.com
+*.log.stat.kugou.com
+*.minidcsc.kugou.com
+*.mo.kugou.com
+*.mobilelog.kugou.com
+*.msg.mobile.kugou.com
+*.mvads.kugou.com
+*.p.kugou.com
+*.push.mobile.kugou.com
+*.rtmonitor.kugou.com
+*.sdn.kugou.com
+*.update.mobile.kugou.com
 
 # Fenghuang
 *.games.ifeng.com
@@ -1039,6 +1091,9 @@ stat.adx.yumimobi.com
 *.fengbuy.com
 *.tutuapp.com
 *.we.tm
+*.aoodoo.feng.com
+*.bbsanalytics.weiphone.net
+*.yes1.feng.com
 
 # Zaker These rules may cause problems on Zaker HD
 *.adm.myzaker.com
@@ -1150,10 +1205,12 @@ download.dolphin-browser.cn
 survey.dolphin.com
 
 # Ganji
-analytics.ganji.com
-ganjituiguang.ganji.com
-sta.ganji.com
-tralog.ganji.com
+*.ad.ganji.com
+*.analytics.ganji.com
+*.click.ganji.com
+*.ganjituiguang.ganji.com
+*.sta.ganji.com
+*.tralog.ganji.com
 
 # GeekSoft
 msg.xageek.com
@@ -1170,6 +1227,13 @@ gmpt.lianwifi.com
 gmtj.lianwifi.com
 static.game.lianwifi.com
 static.o2o.lianwifi.com
+wifiapi01.51y5.net
+wifiapi02.51y5.net
+*.c.51y5.net
+*.cds.51y5.net
+*.ios-dc.51y5.net
+*.news-img.51y5.net
+*.wkanc.com
 
 # Uxin
 game.uxin.com
@@ -1222,3 +1286,64 @@ websts.xunlei.com
 wp.stat.xunlei.com
 wy.xunlei.com
 xmlconf.client.xunlei.com
+liveupdate.mac.sandai.net
+
+# Xunlei kankan
+*.biz5.kankan.com
+*.float.kankan.com
+*.logic.cpm.cm.kankan.com
+
+# Duomi
+*.ad.duomi.com
+*.boxshows.com
+
+# Fang
+*.click1n.soufun.com
+*.clickm.fang.com
+*.clickn.fang.com
+*.countpvn.light.fang.com
+*.countubn.light.soufun.com
+*.mshow.fang.com
+*.tongji.home.soufun.com
+
+# ele
+*.app-monitor.ele.me
+*.client-api.ele.me
+*.grand.ele.me
+*.mobile-pubt.ele.me
+*.newton-api.ele.me
+
+# Moji
+*.ad.api.moji.com
+*.app.moji001.com
+*.cdn.moji.com
+*.cdn.moji002.com
+*.cdn2.moji002.com
+*.fds.api.moji.com
+*.log.moji.com
+*.stat.moji.com
+*.ugc.moji001.com
+
+# Qingting.fm
+*.ad.qingting.fm
+*.admgr.qingting.fm
+*.dload.qd.qingting.fm
+*.logger.qingting.fm
+*.s.qd.qingting.fm
+*.s.qd.qingtingfm.com
+
+# Tumblr
+*.92x.tumblr.com
+*.its-dori.tumblr.com
+*.tumblrprobes.cedexis.com
+*.tumblrreports.cedexis.com
+
+# Zhihu
+*.sugar.zhihu.com
+*.zhihu-analytics.zhihu.com
+*.zhihu-web-analytics.zhihu.com
+*.zhstatic.zhihu.com
+
+# Meizu
+clickhz.meizu.com
+tongji.meizu.com
