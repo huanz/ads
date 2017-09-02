@@ -635,8 +635,8 @@ msg.video.qiyi.com
 msg2.video.qiyi.com
 meta.video.qiyi.com
 data.video.qiyi.com
-c.uaa.iqiyi.com
-cloudpush.iqiyi.com
+*.c.uaa.iqiyi.com
+*.cloudpush.iqiyi.com
 cmts.iqiyi.com
 data.store.iqiyi.com
 feedback.iqiyi.com
@@ -645,6 +645,9 @@ mbdlog.iqiyi.com
 msg.iqiyi.com
 store.iqiyi.com
 paopao.iqiyi.com
+*.afp.iqiyi.com
+*.api.cupid.iqiyi.com
+*.cm.passport.iqiyi.com
 
 # Letv
 *.ark.letv.com
