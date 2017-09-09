@@ -263,6 +263,7 @@ aid.video.qq.com
 *.pmir.3g.qq.com
 *.tools.3g.qq.com
 *.szexshort.weixin.qq.com
+*.rcgi.video.qq.com
 
 # UC
 safe.ucweb.com
@@ -471,6 +472,7 @@ acjs.aliyun.com
 *.atanx.alicdn.com
 gma.alicdn.com
 *.afp.alicdn.com
+*.g.alicdn.com
 
 # Dropbox
 d.dropbox.com
@@ -747,6 +749,8 @@ push.m.youku.com
 rec.api.gamex.mobile.youku.com
 test.gamex.mobile.youku.com
 vhtml.youku.com
+cmstool.youku.com
+*.hudong.pl.youku.com
 *.ad.api.3g.tudou.com
 *.adcontrol.tudou.com
 *.adplay.tudou.com
@@ -993,7 +997,6 @@ log.hunantv.com
 mobile.log.hunantv.com
 stat.titan.imgo.tv
 click.hifly.tv
-hunantv.m.cn.miaozhen.com
 recv-vd.gridsumdissector.cn
 recv-vd.gridsumdissector.com
 geo.gridsumdissector.com
