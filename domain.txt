@@ -264,6 +264,8 @@ aid.video.qq.com
 *.tools.3g.qq.com
 *.szexshort.weixin.qq.com
 *.rcgi.video.qq.com
+vmindhls.tc.qq.com
+l.aiseet.atianqi.com
 
 # UC
 safe.ucweb.com
@@ -451,6 +453,8 @@ res.cocounion.com
 *.log.nuomi.com
 *.dcps.nuomi.com
 *.log.waimai.baidu.com
+bzclk.baidu.com
+
 
 # Alibaba
 *.simaba.taobao.com
@@ -473,6 +477,8 @@ acjs.aliyun.com
 gma.alicdn.com
 *.afp.alicdn.com
 *.g.alicdn.com
+asearch.alicdn.com
+atanx2.alicdn.com
 
 # Dropbox
 d.dropbox.com
@@ -788,7 +794,6 @@ t4u.stat.v-56.com
 
 # Baofeng
 *.logger.baofeng.com
-*.xs.houyi.baofeng.net
 clicklog.hd.baofeng.com
 clicklog.moviebox.baofeng.com
 dailylog.storm.baofeng.com
@@ -803,11 +808,9 @@ vdinfo.baofeng.com
 videodown.baofeng.com
 boxlist.baofeng.net
 clicklog.moviebox.baofeng.net
-log.houyi.baofeng.net
 ploy.baofeng.net
 pvlog.moviebox.baofeng.net
-web.houyi.baofeng.net
-wl.houyi.baofeng.net
+*.houyi.baofeng.net
 
 # CNTV
 terren.cntv.cn
@@ -983,9 +986,7 @@ duiba.com.cn
 dui88.com
 
 # Mangguo
-*.x.da.hunantv.com
-*.bs.da.hunantv.com
-*.log.da.hunantv.com
+*.da.hunantv.com
 *.log.v2.hunantv.com
 *.v2.log.hunantv.com
 mobile.log.hunantv.com
@@ -1063,9 +1064,7 @@ bj.imp.voiceads.cn
 *.soft.data.weather.360.cn
 *.stat.360safe.com
 *.stat.m.360.cn
-*.s.lianmeng.360.cn
-*.stat.lianmeng.360.cn
-*.so.lianmeng.360.cn
+*.lianmeng.360.cn
 *.update.360safe.com
 *.kuaikan.netmon.360safe.com
 dl.360safe.com
@@ -1297,7 +1296,11 @@ liveupdate.mac.sandai.net
 # Xunlei kankan
 *.biz5.kankan.com
 *.float.kankan.com
-*.logic.cpm.cm.kankan.com
+*.cm.kankan.com
+kkpgv.kankan.com
+kkpgv2.kankan.com
+kkpgv2.xunlei.com
+material.ssp.xunlei.com 
 
 # Duomi
 *.ad.duomi.com
